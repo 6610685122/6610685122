@@ -53,12 +53,11 @@ Developing scalable backend systems and managing robust infrastructure.
 
 **Data & tool**
 <br>
-
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 
- 
+---
 
 
 ### 🚀 Featured Projects
@@ -77,6 +76,18 @@ Developing scalable backend systems and managing robust infrastructure.
 > **AI / Deep Learning**
 >
 > Engineered an audio classification pipeline using state-of-the-art models like EfficientNet and Vision Transformer (ViT), optimized with cross-validation techniques.
+
+#### Strava CLI Insight
+> **Software Development**
+>
+> Built a Python CLI integrating Strava REST API for data analysis, deployed via Docker for reproducibility.
+Enforced code quality standards using Type Hinting and Unit Testing
+
+#### CheapShark Data Pipeline
+> **Database/API query**
+>
+>   Built Python/SQLite ETL pipeline for API data.
+    Utilized advanced SQL (CTEs, Subqueries) for complex analysis.
 
 ---
 
